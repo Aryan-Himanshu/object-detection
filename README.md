@@ -1,2 +1,2 @@
 # object-detection
-it will help us detect object through image, video and webcam or camera
+With the help of object detection model we can detect object through image, video and webcam or camera. 
